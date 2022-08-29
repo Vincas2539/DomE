@@ -1,2 +1,2 @@
 # DomE
-Empresa que faz ligação p2p para serviços domesticos
+Empresa que faz ligação p2p para serviços domésticos
